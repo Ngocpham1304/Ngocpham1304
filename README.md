@@ -3,7 +3,6 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center"> A IT Recuiter from Vietnam </h3>
 
-**Ngocpham1304/Ngocpham1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working at **Trusting Social.** 
 - 👯 I’m looking to collaborate on **Technical field.**
